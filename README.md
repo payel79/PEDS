@@ -98,4 +98,4 @@ By design of PEDS, the model depends on the engineering problem because the rele
 
 # License
 
-TBD with code release
+MIT License
