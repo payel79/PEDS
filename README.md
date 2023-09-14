@@ -1,6 +1,6 @@
 # PEDS
 
-<!---[![DOI](https://zenodo.org/badge/147731955.svg)](https://zenodo.org/badge/latestdoi/147731955)/--->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8342595.svg)](https://doi.org/10.5281/zenodo.8342595)
 
 `PEDS` is a Julia package containing methodologies for Scientific Machine Learning surrogate models called Physics-Enhanced Deep Surrogates (PEDS) that is capable of saving at least two orders of magnitude in data needed to achieve a sufficient accuracy for design.
 
